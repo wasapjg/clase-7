@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Fede",
+    "descripcion": "",
+    "codigo": 147,
+    "foto": "https://avatars.githubusercontent.com/u/80989393?v=4",
+    "precio": 999999,
+    "stock": 1,
+    "id": 1,
+    "timestamp": 1644759078237
+  },
+  {
+    "nombre": "Andres Manzano",
+    "descripcion": "Lo regalo porque no le gusta The Walking Dead",
+    "codigo": 10,
+    "foto": "https://media-exp1.licdn.com/dms/image/C5603AQGZCsBWbYuvgA/profile-displayphoto-shrink_400_400/0/1640269454727?e=1650499200&v=beta&t=ErYV6z84orctvXjvAJ2Xti9Ffzadg5lbkT5M_C1UV0Y",
+    "precio": 0,
+    "stock": 1,
+    "id": 2,
+    "timestamp": 1644759078239
+  }
+]
